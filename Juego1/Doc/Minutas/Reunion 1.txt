@@ -1,0 +1,5 @@
+.Definicion de tipo de juego:
+	Arcade/rpg.
+Forma de juego:	movimiento: teclas izquierda y derecha		Guardado automatico del juego al finalizar el nivel junto con un score (este ultimo se guarda ya sea se termino el nivel o no)	
+
+Historia:		Personaje Principal: Nave espacial KR-530	Enemigos:	Naves atacantes de la Galaxia de Andrómeda.	Objetivo:	La nave espacial KR-530 está explorando en la Galaxia de Andrómeda pero naves opuestas detectan el forastero galáctico en el que trataran de impedir su paso. Nuestro objetivo será destruir las naves atacantes.

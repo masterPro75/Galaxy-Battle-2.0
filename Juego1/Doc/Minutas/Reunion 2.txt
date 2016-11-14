@@ -1,0 +1,1 @@
+Definicion de los Sprites:		Nombre:	Nave espacial KR-530, jugador principal		Enemigos: Naves espaciales atacantes de la nave	KR-530		Lugar: Galaxia de Andrómeda	Cantidad de niveles: Se jugara hasta que el jugador pierda.
